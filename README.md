@@ -19,6 +19,7 @@ Register
     Logout
 
 # How to setup Web Based Quiz System in PHP/MySQL
+
 1. Download the zip file.
 2. Download and install XAMPP
 3. Run the XAMPP control panel and start MySQL and Apache
@@ -31,9 +32,11 @@ Register
 10. Click go.
 
 # How to run Web Based Quiz System in PHP/MySQL
+
 Open the browser and go to http://localhost/onlinequiz/admin.php
 
 Username: admin@admin.com
+
 Password: admin
 
 which gives access to the admin site.
@@ -41,6 +44,7 @@ which gives access to the admin site.
 Open the browser and go to http://localhost/onlinequiz/
 
 username: saketh@gamil.com
+
 password: saketh
 
 gives access to the User/student Site.
