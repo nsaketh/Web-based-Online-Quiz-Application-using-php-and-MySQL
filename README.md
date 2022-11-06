@@ -35,10 +35,12 @@ Open the browser and go to http://localhost/onlinequiz/admin.php
 
 Username: admin@admin.com
 Password: admin
+
 which gives access to the admin site.
 
 Open the browser and go to http://localhost/onlinequiz/
 
 username: saketh@gamil.com
 password: saketh
+
 gives access to the User/student Site.
